@@ -1,0 +1,6 @@
+<style>body{margin:0;overflow:hidden;height:100vh;}
+</style>
+<script type = "module">
+	import App from "./app.js";
+	window.onload = () => {new App();} 
+</script>
